@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "latex": "^0.0.1",
+    "pandoc": "^0.2.0"
+  }
+}
